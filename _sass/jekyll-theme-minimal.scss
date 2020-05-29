@@ -1,15 +1,28 @@
 @import "fonts";
 @import "rouge-github";
 
+/********Colors************
+#fc9117 - standard light orange
+#fc7700 - dark orange used in shading
+#f0f0f0 - off white
+#dfdfe2 - grey, used in shading
+#000000 - black
+***************************/
+
+$fish-orange: #fc9117;
+$fish-dark-orange: #fc7700;
+$fish-off-white: #f0f0f0;
+$fish-grey: #dfdfe2;
+
 body {
-  background-color: #fff;
+  background-color: black;
   padding:50px;
   font: 14px/1.5 "Source Sans Pro", sans-serif;
-  color:#727272;
+  color: $fish-off-white;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: $fish-off-white;
   margin:0 0 20px;
   font: 30px/1.5 "Nanum Pen Script", cursive;
 }
@@ -27,32 +40,31 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  
 }
 
 a {
-  color:#267CB9;
+  color: $fish-orange;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color: $fish-dark-orange;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#777;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  
 }
 
 .wrapper {
