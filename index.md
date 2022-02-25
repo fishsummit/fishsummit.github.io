@@ -6,10 +6,10 @@ layout: default
 ---
 
 # hol' up there, pardner
-## are ya here to see Joey Peak's work? well, that's right dandy of you. check out the links below.
+## are ya here to see Sloane Peak's work? well, that's right dandy of you. check out the links below.
 
 See my portfolio [here](/work/)
 
-Follow me on [Twitch](https://www.twitch.tv/fishsummit)
+Follow me on [Twitch](https://www.twitch.tv/fishsuplex)
 
-Follow me on [Twitter](https://www.twitter.com/fishsummitTV)
+Follow me on [Twitter](https://www.twitter.com/fishsuplex)
